@@ -1,9 +1,0 @@
-@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";@import "fontawesome.css";.font-face{font-family:'baloo 2';font-style:normal;font-weight:400;src:url(ttf/Baloo2-Regular.ttf)}body::-webkit-scrollbar{width:.5rem}body::-webkit-scrollbar-track{background:#fff}body::-webkit-scrollbar-thumb{background:#9b12ad}.background{background-image:url(../images/background.png);background-position:center center;background-repeat:no-repeat;background-attachment:fixed;background-size:cover;background-color:#464646}.bm--card-equal-height{display:flex;flex-direction:column;height:100%}.bm--card-equal-height .card-footer{margin-top:auto}.half-circle-spinner,.half-circle-spinner *{box-sizing:border-box}.half-circle-spinner,.half-circle-spinner *{box-sizing:border-box}.half-circle-spinner{width:70px;height:70px;border-radius:100%;position:fixed;left:47%;bottom:50%}.half-circle-spinner .circle{content:"";position:absolute;width:100%;height:100%;border-radius:100%;border:calc(70px/10) solid transparent}.half-circle-spinner .circle.circle-1{border-top-color:#9b12ad;animation:half-circle-spinner-animation 1s infinite}.half-circle-spinner .circle.circle-2{border-bottom-color:#9b12ad;animation:half-circle-spinner-animation 1s infinite alternate}@keyframes half-circle-spinner-animation{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
-
-span{
-    color: rgb(102, 185, 253);
-}
-
-strong{
-    font-size: 1.5rem;
-}
